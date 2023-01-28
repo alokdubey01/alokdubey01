@@ -1,7 +1,3 @@
-
-![Logo](https://images.unsplash.com/photo-1657854685361-9b72239c716f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1332&q=80)
-
-
 # Hi, I'm Alok Dubey! 👋
 
 The best part of my life is writing codes all day. Currently i have good understading of all major programming languages.`Looking for inhence to myselelf more.`
