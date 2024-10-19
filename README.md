@@ -8,6 +8,7 @@ The best part of my life is writing codes all day. Currently i have good underst
 [![Alok's GitHub stats](https://github-readme-stats.vercel.app/api?username=alokdubey01)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Alok's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=alokdubey01)
+[![GitHub Streak](https://streak-stats.demolab.com?user=alokdubey01)](https://git.io/streak-stats)
 ## 🧑‍💻 Programming Tools
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
